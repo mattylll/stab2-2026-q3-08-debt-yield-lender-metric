@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/stab2-2026-q3-08-debt-yield-lender-metric/sitemap.xml
